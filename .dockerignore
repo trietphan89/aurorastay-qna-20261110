@@ -1,0 +1,17 @@
+.git
+.venv
+__pycache__
+**/__pycache__
+*.pyc
+config.json
+.env
+.env.*
+build
+output
+data
+source
+*.ipynb
+*.html
+*.pdf
+*.pptx
+*.zip

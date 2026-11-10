@@ -1,0 +1,4 @@
+{
+  "OPENAI_API_KEY": "YOUR_COURSE_API_KEY",
+  "OPENAI_API_BASE": "https://aibe.mygreatlearning.com/openai/v1"
+}

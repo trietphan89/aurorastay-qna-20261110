@@ -1,0 +1,2444 @@
+[
+  {
+    "id": "AS-01-p01-001",
+    "page_content": "How to use this policy\nUse the property code, reservation record, and rate rules before giving a guest a final answer. If a property-specific rule is not stated here, contact the property team and record the exception in the reservation notes.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 1,
+      "pages": [
+        1
+      ],
+      "section": "How to use this policy",
+      "chunk_id": "AS-01-p01-001",
+      "kind": "prose",
+      "token_count": 50,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p01-002",
+    "page_content": "How to use this policy\nOperating note: This is a business policy for guest service teams. It is not a substitute for a property license, emergency procedure, signed group agreement, or advice from qualified counsel. Local and state requirements can be more protective than this baseline.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 1,
+      "pages": [
+        1
+      ],
+      "section": "How to use this policy",
+      "chunk_id": "AS-01-p01-002",
+      "kind": "prose",
+      "token_count": 55,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p02-003",
+    "page_content": "1. Scope and governing rules\nThis policy applies to individual transient reservations made through an AuroraStay website, call center, property, authorized travel advisor, or approved online travel agency. The reservation confirmation controls when it contains a rate rule that is more specific than this baseline. Group, negotiated corporate, government, wholesale, crew, and extended-stay agreements may have separate written terms.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "1. Scope and governing rules",
+      "chunk_id": "AS-01-p02-003",
+      "kind": "prose",
+      "token_count": 78,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p02-004",
+    "page_content": "1. Scope and governing rules\nThe reservation record must show the property, arrival and departure dates, room type, number of guests, rate plan, payment method, cancellation deadline, taxes and disclosed fees. Staff must read the exact rate plan before promising a cancellation, change, refund, upgrade, or fee waiver.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "1. Scope and governing rules",
+      "chunk_id": "AS-01-p02-004",
+      "kind": "prose",
+      "token_count": 66,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p02-005",
+    "page_content": "Guest-facing summary\nFlexible rates can normally be canceled by 6:00 PM local property time one day before arrival without a room charge. Advance Purchase rates are generally non-refundable and cannot be changed. The confirmation controls if it states a different rule.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "Guest-facing summary",
+      "chunk_id": "AS-01-p02-005",
+      "kind": "prose",
+      "token_count": 54,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p02-006",
+    "page_content": "2. Rate plan rules\nRate plan: Flexible; Payment: Card guarantee; payment at hotel unless confirmation says otherwise; Cancel or change: Cancel by 6:00 PM local property time one day before arrival. Later cancellation or no-show is one night plus applicable tax.; Staff action: Quote the deadline in local property time and note the confirmation number.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Rate plan rules",
+      "chunk_id": "AS-01-p02-006",
+      "kind": "table_row",
+      "token_count": 73,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p02-007",
+    "page_content": "2. Rate plan rules\nRate plan: Advance Purchase; Payment: Full stay charged at booking; Cancel or change: Non-refundable and non-changeable except where the confirmation, law, or an approved service recovery permits an exception.; Staff action: Do not promise a refund. Escalate documented extraordinary circumstances to a manager.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Rate plan rules",
+      "chunk_id": "AS-01-p02-007",
+      "kind": "table_row",
+      "token_count": 72,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p02-008",
+    "page_content": "2. Rate plan rules\nRate plan: Member or promotional; Payment: Varies by offer; Cancel or change: Use the offer terms shown at booking. A member discount does not by itself make a rate flexible.; Staff action: Read the cancellation line, not only the promotional name.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Rate plan rules",
+      "chunk_id": "AS-01-p02-008",
+      "kind": "table_row",
+      "token_count": 59,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p02-009",
+    "page_content": "2. Rate plan rules\nRate plan: Group or negotiated; Payment: Per signed agreement; Cancel or change: Use the signed contract or group block terms. The baseline rule does not override a contract.; Staff action: Send contract questions to Sales or the assigned account owner.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Rate plan rules",
+      "chunk_id": "AS-01-p02-009",
+      "kind": "table_row",
+      "token_count": 58,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p02-010",
+    "page_content": "2. Rate plan rules\nFor reservations made through an online travel agency, the agency may process the charge and cancellation. AuroraStay should confirm the agency's terms and avoid promising that the hotel can reverse an agency charge directly.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Rate plan rules",
+      "chunk_id": "AS-01-p02-010",
+      "kind": "prose",
+      "token_count": 48,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p03-011",
+    "page_content": "3. Changes, no-shows, and special circumstances\nA guest may request a date, room type, occupancy, or property change. Staff must price the modified reservation using the current available rate and verify whether the original rate plan permits the change. A modification is not complete until the new confirmation is issued.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Changes, no-shows, and special circumstances",
+      "chunk_id": "AS-01-p03-011",
+      "kind": "prose",
+      "token_count": 66,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p03-012",
+    "page_content": "3. Changes, no-shows, and special circumstances\nIf a guest does not arrive by the property cutoff, the reservation is treated as a no-show unless the guest has arranged a late arrival. The baseline charge is one night plus applicable tax for flexible rates. A multi-night reservation may be released after the first night unless the property has received payment or written notice for the rest of the stay.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Changes, no-shows, and special circumstances",
+      "chunk_id": "AS-01-p03-012",
+      "kind": "prose",
+      "token_count": 84,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p03-013",
+    "page_content": "3. Changes, no-shows, and special circumstances\nIf a property cannot honor a confirmed reservation because of an overbooking or an operational closure, the manager on duty must arrange a comparable room when feasible, cover approved reasonable relocation costs, and document the resolution. The manager must not describe a relocation as a guest cancellation.\n\nA manager may approve a one-time exception for a documented service failure, duplicate booking, verified system error, or other approved service recovery. The reason, approver, amount, and guest communication must be recorded in the reservation record.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Changes, no-shows, and special circumstances",
+      "chunk_id": "AS-01-p03-013",
+      "kind": "prose",
+      "token_count": 114,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p03-014",
+    "page_content": "4. Taxes, deposits, and guarantees\nItem: Room and occupancy tax; Baseline rule: Applied according to the property location and current tax setup.; What to tell the guest: Show the estimated total and explain that the final amount can change if local taxes or disclosed fees change.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "4. Taxes, deposits, and guarantees",
+      "chunk_id": "AS-01-p03-014",
+      "kind": "table_row",
+      "token_count": 61,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p03-015",
+    "page_content": "4. Taxes, deposits, and guarantees\nItem: Incidentals authorization; Baseline rule: A temporary card authorization may be placed at arrival. The amount is property-specific and may be increased if charges are posted.; What to tell the guest: It is a hold, not a final charge. Release timing depends on the issuer after checkout.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "4. Taxes, deposits, and guarantees",
+      "chunk_id": "AS-01-p03-015",
+      "kind": "table_row",
+      "token_count": 72,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p03-016",
+    "page_content": "4. Taxes, deposits, and guarantees\nItem: Card guarantee; Baseline rule: The card must be valid and authorized under the reservation terms. A failed guarantee requires prompt guest contact or manager review.; What to tell the guest: Use a valid card or an approved payment method before the cancellation deadline when required.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "4. Taxes, deposits, and guarantees",
+      "chunk_id": "AS-01-p03-016",
+      "kind": "table_row",
+      "token_count": 64,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p03-017",
+    "page_content": "4. Taxes, deposits, and guarantees\nAuroraStay does not store full payment card numbers in guest notes. Staff must use the approved payment system and follow PCI DSS controls. Never request a card number by email or ordinary chat.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "4. Taxes, deposits, and guarantees",
+      "chunk_id": "AS-01-p03-017",
+      "kind": "prose",
+      "token_count": 50,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p04-018",
+    "page_content": "5. Property-specific quick reference\nThe following matrix is a training reference for six representative properties. Always verify the live property profile and reservation confirmation before quoting a guest. Amounts are in US dollars and exclude tax unless the row says otherwise.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific quick reference",
+      "chunk_id": "AS-01-p04-018",
+      "kind": "prose",
+      "token_count": 49,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p04-019",
+    "page_content": "5. Property-specific quick reference\nProperty: ASH-ATL Midtown, Atlanta GA; Check-in / out: 3:00 PM / 11:00 AM; Parking: Self parking, $28 per night; Pets: $75 per stay; 2 pets max; Breakfast: $19 adult, $10 child",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific quick reference",
+      "chunk_id": "AS-01-p04-019",
+      "kind": "table_row",
+      "token_count": 66,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "The following matrix is a training reference for six representative properties. Always verify the live property profile and reservation confirmation before quoting a guest. Amounts are in US dollars and exclude tax unless the row says otherwise."
+    }
+  },
+  {
+    "id": "AS-01-p04-020",
+    "page_content": "5. Property-specific quick reference\nProperty: ASH-BOS Harbor, Boston MA; Check-in / out: 4:00 PM / 11:00 AM; Parking: Valet only, $65 per night; Pets: No pets except service animals; Breakfast: Included with room",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific quick reference",
+      "chunk_id": "AS-01-p04-020",
+      "kind": "table_row",
+      "token_count": 59,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "The following matrix is a training reference for six representative properties. Always verify the live property profile and reservation confirmation before quoting a guest. Amounts are in US dollars and exclude tax unless the row says otherwise."
+    }
+  },
+  {
+    "id": "AS-01-p04-021",
+    "page_content": "5. Property-specific quick reference\nProperty: ASH-CHI Loop, Chicago IL; Check-in / out: 3:00 PM / 12:00 PM; Parking: Self parking, $42 per night; Pets: $50 per night, $150 stay cap; Breakfast: $22 per person",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific quick reference",
+      "chunk_id": "AS-01-p04-021",
+      "kind": "table_row",
+      "token_count": 63,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "The following matrix is a training reference for six representative properties. Always verify the live property profile and reservation confirmation before quoting a guest. Amounts are in US dollars and exclude tax unless the row says otherwise."
+    }
+  },
+  {
+    "id": "AS-01-p04-022",
+    "page_content": "5. Property-specific quick reference\nProperty: ASH-DEN Union, Denver CO; Check-in / out: 4:00 PM / 11:00 AM; Parking: Garage, $35 per night; Pets: $75 per stay; 2 pets max; Breakfast: $18 per person",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific quick reference",
+      "chunk_id": "AS-01-p04-022",
+      "kind": "table_row",
+      "token_count": 61,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "The following matrix is a training reference for six representative properties. Always verify the live property profile and reservation confirmation before quoting a guest. Amounts are in US dollars and exclude tax unless the row says otherwise."
+    }
+  },
+  {
+    "id": "AS-01-p04-023",
+    "page_content": "5. Property-specific quick reference\nProperty: ASH-MIA Brickell, Miami FL; Check-in / out: 4:00 PM / 11:00 AM; Parking: Valet, $55 per night; Pets: $100 per stay; 2 pets max; Breakfast: $24 per person",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific quick reference",
+      "chunk_id": "AS-01-p04-023",
+      "kind": "table_row",
+      "token_count": 62,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "The following matrix is a training reference for six representative properties. Always verify the live property profile and reservation confirmation before quoting a guest. Amounts are in US dollars and exclude tax unless the row says otherwise."
+    }
+  },
+  {
+    "id": "AS-01-p04-024",
+    "page_content": "5. Property-specific quick reference\nProperty: ASH-SEA Pike, Seattle WA; Check-in / out: 3:00 PM / 12:00 PM; Parking: No on-site parking; partner garage, $38 per night; Pets: $75 per stay; 2 pets max; Breakfast: Included with room",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific quick reference",
+      "chunk_id": "AS-01-p04-024",
+      "kind": "table_row",
+      "token_count": 67,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "The following matrix is a training reference for six representative properties. Always verify the live property profile and reservation confirmation before quoting a guest. Amounts are in US dollars and exclude tax unless the row says otherwise."
+    }
+  },
+  {
+    "id": "AS-01-p04-025",
+    "page_content": "Property profile rule\nA property profile may contain a more specific parking, pet, breakfast, or arrival rule. Do not transfer a fee from one property to another. If a property is not in the matrix, use the live property profile or contact the property.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "Property profile rule",
+      "chunk_id": "AS-01-p04-025",
+      "kind": "prose",
+      "token_count": 53,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p04-026",
+    "page_content": "6. Reference and review notes\nThis baseline should be reviewed with Revenue Management, Finance, Guest Experience, and each property leader before publishing a new rate plan. Review state and local requirements for lodging taxes, fee disclosures, cancellation restrictions, accessibility, and consumer protection before changing the rule.\n\nRegulatory alignment to confirm during review includes the Federal Trade Commission's rules and guidance on clear pricing and unfair or deceptive practices, applicable state automatic renewal or fee disclosure requirements, and the Americans with Disabilities Act Title III requirements for places of lodging. The property owner remains responsible for local implementation.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "6. Reference and review notes",
+      "chunk_id": "AS-01-p04-026",
+      "kind": "prose",
+      "token_count": 117,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p05-027",
+    "page_content": "7. Cancellation and change workflow\nStep: 1. Locate reservation; Owner: Any agent; Required check: Match name, confirmation, property, dates, rate plan, and booking channel.; Record: Reservation ID",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 5,
+      "pages": [
+        5
+      ],
+      "section": "7. Cancellation and change workflow",
+      "chunk_id": "AS-01-p05-027",
+      "kind": "table_row",
+      "token_count": 45,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p05-028",
+    "page_content": "7. Cancellation and change workflow\nStep: 2. Read rate terms; Owner: Any agent; Required check: Confirm cancellation deadline, charge, payment status, and restrictions.; Record: Rate rule quoted to guest",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 5,
+      "pages": [
+        5
+      ],
+      "section": "7. Cancellation and change workflow",
+      "chunk_id": "AS-01-p05-028",
+      "kind": "table_row",
+      "token_count": 45,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p05-029",
+    "page_content": "7. Cancellation and change workflow\nStep: 3. Check property rule; Owner: Property team; Required check: Confirm property-specific policy, event restriction, or operational limitation.; Record: Profile or manager name",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 5,
+      "pages": [
+        5
+      ],
+      "section": "7. Cancellation and change workflow",
+      "chunk_id": "AS-01-p05-029",
+      "kind": "table_row",
+      "token_count": 45,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p05-030",
+    "page_content": "7. Cancellation and change workflow\nStep: 4. Complete or escalate; Owner: Agent or manager; Required check: Issue new confirmation, process eligible refund, or escalate exception.; Record: Action, amount, approver, guest notice",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 5,
+      "pages": [
+        5
+      ],
+      "section": "7. Cancellation and change workflow",
+      "chunk_id": "AS-01-p05-030",
+      "kind": "table_row",
+      "token_count": 55,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-01-p05-031",
+    "page_content": "7. Cancellation and change workflow\nEscalate when the confirmation conflicts with the property profile, the booking channel will not release a charge, the guest alleges discrimination or disability-related harm, the guest disputes an unauthorized charge, or the requested exception could create a legal or safety issue.\n\nDocument decisions in neutral language. Do not record sensitive medical details, full payment card data, or assumptions about a guest's identity or intent.",
+    "metadata": {
+      "source": "aurorastay_booking_terms_and_cancellation_policy.pdf",
+      "policy_code": "AS-01",
+      "page": 5,
+      "pages": [
+        5
+      ],
+      "section": "7. Cancellation and change workflow",
+      "chunk_id": "AS-01-p05-031",
+      "kind": "prose",
+      "token_count": 90,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-02-p02-001",
+    "page_content": "1. Room types and occupancy\nRoom names describe the bed configuration and major features shown on the property page. They do not guarantee a specific floor, view, connecting room, or accessible feature unless the reservation confirmation or a documented request states it. The property may assign an equivalent room when the reserved room type is unavailable, subject to manager review.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "1. Room types and occupancy",
+      "chunk_id": "AS-02-p02-001",
+      "kind": "prose",
+      "token_count": 73,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-02-p02-002",
+    "page_content": "1. Room types and occupancy\nRoom type: King; Typical configuration: One king bed; Typical occupancy: Up to 2 adults, or 2 adults and 1 child where local limits allow; Important note: Rollaway availability and fees vary by property.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "1. Room types and occupancy",
+      "chunk_id": "AS-02-p02-002",
+      "kind": "table_row",
+      "token_count": 57,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Room names describe the bed configuration and major features shown on the property page. They do not guarantee a specific floor, view, connecting room, or accessible feature unless the reservation confirmation or a documented request states it. The property may assign an equivalent room when the reserved room type is unavailable, subject to manager review."
+    }
+  },
+  {
+    "id": "AS-02-p02-003",
+    "page_content": "1. Room types and occupancy\nRoom type: Double Queen; Typical configuration: Two queen beds; Typical occupancy: Up to 4 guests, subject to fire code and property limits; Important note: Do not promise a crib, rollaway, or connecting room without confirmation.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "1. Room types and occupancy",
+      "chunk_id": "AS-02-p02-003",
+      "kind": "table_row",
+      "token_count": 62,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Room names describe the bed configuration and major features shown on the property page. They do not guarantee a specific floor, view, connecting room, or accessible feature unless the reservation confirmation or a documented request states it. The property may assign an equivalent room when the reserved room type is unavailable, subject to manager review."
+    }
+  },
+  {
+    "id": "AS-02-p02-004",
+    "page_content": "1. Room types and occupancy\nRoom type: Accessible King; Typical configuration: King bed with selected accessible features; Typical occupancy: Up to 2 adults, subject to property limits; Important note: Ask which features are needed. An accessible room is not a medical accommodation package.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "1. Room types and occupancy",
+      "chunk_id": "AS-02-p02-004",
+      "kind": "table_row",
+      "token_count": 62,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Room names describe the bed configuration and major features shown on the property page. They do not guarantee a specific floor, view, connecting room, or accessible feature unless the reservation confirmation or a documented request states it. The property may assign an equivalent room when the reserved room type is unavailable, subject to manager review."
+    }
+  },
+  {
+    "id": "AS-02-p02-005",
+    "page_content": "1. Room types and occupancy\nRoom type: Suite; Typical configuration: Bedroom plus living area; configuration varies; Typical occupancy: Varies by property and suite type; Important note: Confirm bed count, sofa bed, kitchen, and maximum occupancy in the live profile.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "1. Room types and occupancy",
+      "chunk_id": "AS-02-p02-005",
+      "kind": "table_row",
+      "token_count": 63,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Room names describe the bed configuration and major features shown on the property page. They do not guarantee a specific floor, view, connecting room, or accessible feature unless the reservation confirmation or a documented request states it. The property may assign an equivalent room when the reserved room type is unavailable, subject to manager review."
+    }
+  },
+  {
+    "id": "AS-02-p02-006",
+    "page_content": "1. Room types and occupancy\nOccupancy limits follow the property profile, local fire and building requirements, and the room's posted capacity. Staff must not suggest that a guest exceed the stated capacity. When a guest's group size changes, recheck the room and rate before confirming.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "1. Room types and occupancy",
+      "chunk_id": "AS-02-p02-006",
+      "kind": "prose",
+      "token_count": 66,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-02-p02-007",
+    "page_content": "2. Arrival, departure, and access\nItem: Standard check-in; Baseline: 3:00 PM or 4:00 PM local property time, depending on property; Operational handling: Use the property matrix or live profile. A room may not be ready before the stated time.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Arrival, departure, and access",
+      "chunk_id": "AS-02-p02-007",
+      "kind": "table_row",
+      "token_count": 58,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-02-p02-008",
+    "page_content": "2. Arrival, departure, and access\nItem: Standard check-out; Baseline: 11:00 AM or 12:00 PM local property time, depending on property; Operational handling: Confirm the property time and any approved late checkout fee before promising an extension.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Arrival, departure, and access",
+      "chunk_id": "AS-02-p02-008",
+      "kind": "table_row",
+      "token_count": 55,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-02-p02-009",
+    "page_content": "2. Arrival, departure, and access\nItem: Early arrival; Baseline: Subject to availability; not guaranteed unless a paid early check-in product or prior approval applies; Operational handling: Offer luggage storage or common areas when available. Do not promise a clean room before the standard time.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Arrival, departure, and access",
+      "chunk_id": "AS-02-p02-009",
+      "kind": "table_row",
+      "token_count": 59,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-02-p02-010",
+    "page_content": "2. Arrival, departure, and access\nItem: Late departure; Baseline: Subject to availability and may incur a fee; Operational handling: Manager or front desk records approval and the agreed time. A departure after the approved time may create a full-night charge.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Arrival, departure, and access",
+      "chunk_id": "AS-02-p02-010",
+      "kind": "table_row",
+      "token_count": 55,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-02-p02-011",
+    "page_content": "2. Arrival, departure, and access\nItem: After-hours arrival; Baseline: Allowed when the reservation is guaranteed and the property has a staffed or approved access process; Operational handling: Note the estimated arrival and follow the property's key or desk procedure.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Arrival, departure, and access",
+      "chunk_id": "AS-02-p02-011",
+      "kind": "table_row",
+      "token_count": 54,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-02-p03-012",
+    "page_content": "3. Guest amenities and services\nAmenity hours and availability can change for maintenance, staffing, weather, or safety. The live property profile and posted notices control. Staff should answer with the current hours and location when available, not with a group-wide assumption.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Guest amenities and services",
+      "chunk_id": "AS-02-p03-012",
+      "kind": "prose",
+      "token_count": 55,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-02-p03-013",
+    "page_content": "3. Guest amenities and services\nService: Breakfast; Group baseline: A property may offer included breakfast, a paid buffet, a paid menu, or no breakfast service.; What may vary by property: Hours, adult and child pricing, included rate plans, allergy handling, and holiday service.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Guest amenities and services",
+      "chunk_id": "AS-02-p03-013",
+      "kind": "table_row",
+      "token_count": 61,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Amenity hours and availability can change for maintenance, staffing, weather, or safety. The live property profile and posted notices control. Staff should answer with the current hours and location when available, not with a group-wide assumption."
+    }
+  },
+  {
+    "id": "AS-02-p03-014",
+    "page_content": "3. Guest amenities and services\nService: Wi-Fi; Group baseline: Basic guest Wi-Fi is normally provided at no separate charge.; What may vary by property: Network name, premium speed, device limit, captive portal, and outage handling.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Guest amenities and services",
+      "chunk_id": "AS-02-p03-014",
+      "kind": "table_row",
+      "token_count": 54,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Amenity hours and availability can change for maintenance, staffing, weather, or safety. The live property profile and posted notices control. Staff should answer with the current hours and location when available, not with a group-wide assumption."
+    }
+  },
+  {
+    "id": "AS-02-p03-015",
+    "page_content": "3. Guest amenities and services\nService: Fitness and pool; Group baseline: Available only where listed in the property profile.; What may vary by property: Hours, age rules, reservations, closures, lifeguard status, and temporary restrictions.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Guest amenities and services",
+      "chunk_id": "AS-02-p03-015",
+      "kind": "table_row",
+      "token_count": 51,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Amenity hours and availability can change for maintenance, staffing, weather, or safety. The live property profile and posted notices control. Staff should answer with the current hours and location when available, not with a group-wide assumption."
+    }
+  },
+  {
+    "id": "AS-02-p03-016",
+    "page_content": "3. Guest amenities and services\nService: Luggage storage; Group baseline: May be offered by the front desk or bell team when secure capacity exists.; What may vary by property: Hours, claim ticket process, fees, and whether storage is available before check-in or after checkout.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Guest amenities and services",
+      "chunk_id": "AS-02-p03-016",
+      "kind": "table_row",
+      "token_count": 60,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Amenity hours and availability can change for maintenance, staffing, weather, or safety. The live property profile and posted notices control. Staff should answer with the current hours and location when available, not with a group-wide assumption."
+    }
+  },
+  {
+    "id": "AS-02-p03-017",
+    "page_content": "3. Guest amenities and services\nService: Cribs and rollaways; Group baseline: Subject to availability, room configuration, and fire code.; What may vary by property: Fee, age suitability, request deadline, and whether the item can be placed in the room type.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Guest amenities and services",
+      "chunk_id": "AS-02-p03-017",
+      "kind": "table_row",
+      "token_count": 60,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Amenity hours and availability can change for maintenance, staffing, weather, or safety. The live property profile and posted notices control. Staff should answer with the current hours and location when available, not with a group-wide assumption."
+    }
+  },
+  {
+    "id": "AS-02-p03-018",
+    "page_content": "4. Parking, pets, and service animals\nParking is not guaranteed unless the reservation or property profile says it is reserved. Staff must quote the current parking type and charge, explain whether in-and-out access is allowed, and tell the guest how to validate or pay. Parking charges are separate from the room rate unless the confirmation says they are included.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "4. Parking, pets, and service animals",
+      "chunk_id": "AS-02-p03-018",
+      "kind": "prose",
+      "token_count": 74,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-02-p03-019",
+    "page_content": "4. Parking, pets, and service animals\nPet rules are property-specific. A pet fee, weight limit, number limit, room restriction, and vaccination or control requirement may apply. Service animals are not pets under the ADA and are not subject to a pet fee. Staff may ask only the two ADA-permitted questions when the disability-related need is not obvious: whether the animal is required because of a disability and what work or task it has been trained to perform.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "4. Parking, pets, and service animals",
+      "chunk_id": "AS-02-p03-019",
+      "kind": "prose",
+      "token_count": 99,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-02-p03-020",
+    "page_content": "4. Parking, pets, and service animals\nAn emotional support, comfort, or therapy animal that does not meet the ADA service animal definition is handled under the property's pet rule unless another law or approved accommodation applies. Do not request a certificate, vest, or medical record as a condition of recognizing a service animal.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "4. Parking, pets, and service animals",
+      "chunk_id": "AS-02-p03-020",
+      "kind": "prose",
+      "token_count": 66,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-02-p04-021",
+    "page_content": "5. Property-specific matrix\nUse this matrix for training examples only. Verify the property profile before quoting a guest. Amounts are in US dollars and exclude tax unless noted.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific matrix",
+      "chunk_id": "AS-02-p04-021",
+      "kind": "prose",
+      "token_count": 36,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-02-p04-022",
+    "page_content": "5. Property-specific matrix\nProperty: ASH-ATL Midtown, Atlanta GA; Check-in / out: 3:00 PM / 11:00 AM; Parking: Self parking, $28 per night; Pets: $75 per stay; 2 pets max; Breakfast: $19 adult, $10 child",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific matrix",
+      "chunk_id": "AS-02-p04-022",
+      "kind": "table_row",
+      "token_count": 65,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Use this matrix for training examples only. Verify the property profile before quoting a guest. Amounts are in US dollars and exclude tax unless noted."
+    }
+  },
+  {
+    "id": "AS-02-p04-023",
+    "page_content": "5. Property-specific matrix\nProperty: ASH-BOS Harbor, Boston MA; Check-in / out: 4:00 PM / 11:00 AM; Parking: Valet only, $65 per night; Pets: No pets except service animals; Breakfast: Included with room",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific matrix",
+      "chunk_id": "AS-02-p04-023",
+      "kind": "table_row",
+      "token_count": 58,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Use this matrix for training examples only. Verify the property profile before quoting a guest. Amounts are in US dollars and exclude tax unless noted."
+    }
+  },
+  {
+    "id": "AS-02-p04-024",
+    "page_content": "5. Property-specific matrix\nProperty: ASH-CHI Loop, Chicago IL; Check-in / out: 3:00 PM / 12:00 PM; Parking: Self parking, $42 per night; Pets: $50 per night, $150 stay cap; Breakfast: $22 per person",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific matrix",
+      "chunk_id": "AS-02-p04-024",
+      "kind": "table_row",
+      "token_count": 62,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Use this matrix for training examples only. Verify the property profile before quoting a guest. Amounts are in US dollars and exclude tax unless noted."
+    }
+  },
+  {
+    "id": "AS-02-p04-025",
+    "page_content": "5. Property-specific matrix\nProperty: ASH-DEN Union, Denver CO; Check-in / out: 4:00 PM / 11:00 AM; Parking: Garage, $35 per night; Pets: $75 per stay; 2 pets max; Breakfast: $18 per person",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific matrix",
+      "chunk_id": "AS-02-p04-025",
+      "kind": "table_row",
+      "token_count": 60,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Use this matrix for training examples only. Verify the property profile before quoting a guest. Amounts are in US dollars and exclude tax unless noted."
+    }
+  },
+  {
+    "id": "AS-02-p04-026",
+    "page_content": "5. Property-specific matrix\nProperty: ASH-MIA Brickell, Miami FL; Check-in / out: 4:00 PM / 11:00 AM; Parking: Valet, $55 per night; Pets: $100 per stay; 2 pets max; Breakfast: $24 per person",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific matrix",
+      "chunk_id": "AS-02-p04-026",
+      "kind": "table_row",
+      "token_count": 61,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Use this matrix for training examples only. Verify the property profile before quoting a guest. Amounts are in US dollars and exclude tax unless noted."
+    }
+  },
+  {
+    "id": "AS-02-p04-027",
+    "page_content": "5. Property-specific matrix\nProperty: ASH-SEA Pike, Seattle WA; Check-in / out: 3:00 PM / 12:00 PM; Parking: No on-site parking; partner garage, $38 per night; Pets: $75 per stay; 2 pets max; Breakfast: Included with room",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific matrix",
+      "chunk_id": "AS-02-p04-027",
+      "kind": "table_row",
+      "token_count": 66,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Use this matrix for training examples only. Verify the property profile before quoting a guest. Amounts are in US dollars and exclude tax unless noted."
+    }
+  },
+  {
+    "id": "AS-02-p04-028",
+    "page_content": "5. Property-specific matrix\nIf the guest asks: Can I bring my dog?; Answering rule: Check the property's pet row and room restrictions. If the animal is a service animal, follow the ADA process and do not charge a pet fee.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific matrix",
+      "chunk_id": "AS-02-p04-028",
+      "kind": "table_row",
+      "token_count": 54,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Use this matrix for training examples only. Verify the property profile before quoting a guest. Amounts are in US dollars and exclude tax unless noted."
+    }
+  },
+  {
+    "id": "AS-02-p04-029",
+    "page_content": "5. Property-specific matrix\nIf the guest asks: Is breakfast free?; Answering rule: Check the property, rate plan, and age-based pricing. Included breakfast is not a group-wide guarantee.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific matrix",
+      "chunk_id": "AS-02-p04-029",
+      "kind": "table_row",
+      "token_count": 44,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Use this matrix for training examples only. Verify the property profile before quoting a guest. Amounts are in US dollars and exclude tax unless noted."
+    }
+  },
+  {
+    "id": "AS-02-p04-030",
+    "page_content": "5. Property-specific matrix\nIf the guest asks: Can I park overnight?; Answering rule: Check the property's parking type and nightly fee. Tell the guest whether spaces are guaranteed, first come first served, valet, or off-site.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific matrix",
+      "chunk_id": "AS-02-p04-030",
+      "kind": "table_row",
+      "token_count": 53,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Use this matrix for training examples only. Verify the property profile before quoting a guest. Amounts are in US dollars and exclude tax unless noted."
+    }
+  },
+  {
+    "id": "AS-02-p04-031",
+    "page_content": "5. Property-specific matrix\nIf the guest asks: Can I check in at noon?; Answering rule: The request is subject to room readiness and property approval. Offer luggage storage if available and quote any approved fee.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific matrix",
+      "chunk_id": "AS-02-p04-031",
+      "kind": "table_row",
+      "token_count": 46,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Use this matrix for training examples only. Verify the property profile before quoting a guest. Amounts are in US dollars and exclude tax unless noted."
+    }
+  },
+  {
+    "id": "AS-02-p05-032",
+    "page_content": "6. Accessibility and guest requests\nAuroraStay provides reasonable modifications and accessible features as required by applicable law. A guest may request an accessible route, mobility feature, visual or audible alert, communication support, or another accommodation. Staff should ask what feature is needed, record the request in the approved system, and confirm what the property can provide.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 5,
+      "pages": [
+        5
+      ],
+      "section": "6. Accessibility and guest requests",
+      "chunk_id": "AS-02-p05-032",
+      "kind": "prose",
+      "token_count": 70,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-02-p05-033",
+    "page_content": "6. Accessibility and guest requests\nDo not treat a request for an accessible room as an optional preference when the guest is asking for an accessibility feature. Do not disclose the guest's disability details to staff who do not need them. If the request cannot be met as stated, involve the manager on duty and offer a specific alternative without making a promise the property cannot deliver.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 5,
+      "pages": [
+        5
+      ],
+      "section": "6. Accessibility and guest requests",
+      "chunk_id": "AS-02-p05-033",
+      "kind": "prose",
+      "token_count": 76,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-02-p05-034",
+    "page_content": "6. Accessibility and guest requests\nService animals may accompany a guest in areas open to guests, subject to the ADA rules for control, housebreaking, and direct threat. A property may remove an animal that is out of control or not housebroken when the issue is not corrected, but staff must not charge a pet fee or make a decision based only on breed or appearance.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 5,
+      "pages": [
+        5
+      ],
+      "section": "6. Accessibility and guest requests",
+      "chunk_id": "AS-02-p05-034",
+      "kind": "prose",
+      "token_count": 77,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-02-p05-035",
+    "page_content": "Escalate immediately\nEscalate a request when a guest reports a blocked accessible route, an inaccessible room feature, a service animal dispute, a safety risk, or a potential discrimination complaint. Record the request and the response in neutral factual language.",
+    "metadata": {
+      "source": "aurorastay_room_and_property_information.pdf",
+      "policy_code": "AS-02",
+      "page": 5,
+      "pages": [
+        5
+      ],
+      "section": "Escalate immediately",
+      "chunk_id": "AS-02-p05-035",
+      "kind": "prose",
+      "token_count": 51,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-03-p02-001",
+    "page_content": "1. Purpose and refund principles\nThis guide helps guest service staff explain refunds, releases, credits, and additional charges. The reservation rate terms control eligibility. The payment method and booking channel control how the money moves. Staff must not promise a refund before checking both.\n\nRefunds generally return to the original payment method. A different method may be used only when Finance or a manager approves it and the transaction can be documented. Cash refunds are not the default for card or agency payments.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "1. Purpose and refund principles",
+      "chunk_id": "AS-03-p02-001",
+      "kind": "prose",
+      "token_count": 102,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-03-p02-002",
+    "page_content": "Three questions before quoting a refund\nWhat was charged? What rule makes it refundable or non-refundable? Who can release or approve the funds? If any answer is unclear, say that the request is under review and give the guest a follow-up channel.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "Three questions before quoting a refund",
+      "chunk_id": "AS-03-p02-002",
+      "kind": "prose",
+      "token_count": 58,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-03-p02-003",
+    "page_content": "2. Common refund scenarios\nScenario: Flexible reservation canceled on time; Baseline outcome: No room charge. If a prepayment was taken, refund the eligible amount after verifying the cancellation timestamp.; Required verification: Rate plan, local property deadline, booking channel, and payment status.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Common refund scenarios",
+      "chunk_id": "AS-03-p02-003",
+      "kind": "table_row",
+      "token_count": 63,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-03-p02-004",
+    "page_content": "2. Common refund scenarios\nScenario: Flexible reservation canceled late or no-show; Baseline outcome: One night plus applicable tax may be retained under the baseline rule.; Required verification: Exact cancellation time, guest notice, property time zone, and any approved exception.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Common refund scenarios",
+      "chunk_id": "AS-03-p02-004",
+      "kind": "table_row",
+      "token_count": 55,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-03-p02-005",
+    "page_content": "2. Common refund scenarios\nScenario: Advance Purchase cancellation; Baseline outcome: Normally non-refundable. Escalate only with a documented contract, system error, legal requirement, or approved service recovery.; Required verification: Confirmation terms, payment capture, manager approval, and reason for exception.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Common refund scenarios",
+      "chunk_id": "AS-03-p02-005",
+      "kind": "table_row",
+      "token_count": 62,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-03-p02-006",
+    "page_content": "2. Common refund scenarios\nScenario: Duplicate or incorrect charge; Baseline outcome: Correct the duplicate or error and refund the excess after reconciling the folio.; Required verification: Folio, payment ledger, authorization, and whether the booking channel also charged.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Common refund scenarios",
+      "chunk_id": "AS-03-p02-006",
+      "kind": "table_row",
+      "token_count": 57,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-03-p02-007",
+    "page_content": "2. Common refund scenarios\nScenario: Service recovery; Baseline outcome: Manager may approve a partial refund, credit, or other remedy based on the documented impact.; Required verification: Complaint facts, remedy offered, approver, amount, and guest acceptance.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Common refund scenarios",
+      "chunk_id": "AS-03-p02-007",
+      "kind": "table_row",
+      "token_count": 54,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-03-p03-008",
+    "page_content": "3. Additional charges\nCharges must be disclosed in the rate, confirmation, property profile, posted notice, or guest agreement before they are applied, except for documented damage or loss assessed under the guest's agreement and applicable law. Staff must provide an itemized folio or receipt on request.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Additional charges",
+      "chunk_id": "AS-03-p03-008",
+      "kind": "prose",
+      "token_count": 60,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-03-p03-009",
+    "page_content": "3. Additional charges\nCharge: Parking; Typical baseline: Property-specific nightly amount; When it may apply: Vehicle uses on-site valet, self parking, or an approved partner garage.; Guest explanation: Quote type, nightly amount, tax, and whether in-and-out access is included.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Additional charges",
+      "chunk_id": "AS-03-p03-009",
+      "kind": "table_row",
+      "token_count": 63,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Charges must be disclosed in the rate, confirmation, property profile, posted notice, or guest agreement before they are applied, except for documented damage or loss assessed under the guest's agreement and applicable law. Staff must provide an itemized folio or receipt on request."
+    }
+  },
+  {
+    "id": "AS-03-p03-010",
+    "page_content": "3. Additional charges\nCharge: Pet fee; Typical baseline: Property-specific per stay or per night; When it may apply: A non-service animal stays under the property's pet policy.; Guest explanation: State amount, limit, room restriction, and whether tax applies. Do not charge service animals a pet fee.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Additional charges",
+      "chunk_id": "AS-03-p03-010",
+      "kind": "table_row",
+      "token_count": 68,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Charges must be disclosed in the rate, confirmation, property profile, posted notice, or guest agreement before they are applied, except for documented damage or loss assessed under the guest's agreement and applicable law. Staff must provide an itemized folio or receipt on request."
+    }
+  },
+  {
+    "id": "AS-03-p03-011",
+    "page_content": "3. Additional charges\nCharge: Late checkout; Typical baseline: Property-specific; may be a flat fee or additional night; When it may apply: Guest receives an approved departure extension.; Guest explanation: Confirm the new departure time and exact fee before approval.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Additional charges",
+      "chunk_id": "AS-03-p03-011",
+      "kind": "table_row",
+      "token_count": 55,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Charges must be disclosed in the rate, confirmation, property profile, posted notice, or guest agreement before they are applied, except for documented damage or loss assessed under the guest's agreement and applicable law. Staff must provide an itemized folio or receipt on request."
+    }
+  },
+  {
+    "id": "AS-03-p03-012",
+    "page_content": "3. Additional charges\nCharge: Smoking or vaping remediation; Typical baseline: Up to $250 baseline, subject to evidence and local law; When it may apply: Credible evidence shows smoking or vaping in a prohibited guest room or indoor area.; Guest explanation: Explain the rule, evidence category, charge basis, and dispute channel. Do not charge based on odor alone when facts are unclear.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Additional charges",
+      "chunk_id": "AS-03-p03-012",
+      "kind": "table_row",
+      "token_count": 83,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Charges must be disclosed in the rate, confirmation, property profile, posted notice, or guest agreement before they are applied, except for documented damage or loss assessed under the guest's agreement and applicable law. Staff must provide an itemized folio or receipt on request."
+    }
+  },
+  {
+    "id": "AS-03-p03-013",
+    "page_content": "3. Additional charges\nCharge: Lost key or device; Typical baseline: Reasonable replacement cost when stated in the property terms; When it may apply: A guest does not return a physical key, parking device, or other property asset.; Guest explanation: State the item, replacement basis, and how the guest can return it or dispute the charge.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Additional charges",
+      "chunk_id": "AS-03-p03-013",
+      "kind": "table_row",
+      "token_count": 71,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Charges must be disclosed in the rate, confirmation, property profile, posted notice, or guest agreement before they are applied, except for documented damage or loss assessed under the guest's agreement and applicable law. Staff must provide an itemized folio or receipt on request."
+    }
+  },
+  {
+    "id": "AS-03-p03-014",
+    "page_content": "3. Additional charges\nCharge: Damage or missing item; Typical baseline: Documented reasonable repair or replacement cost; When it may apply: Inspection supports damage beyond ordinary wear or an item is missing after checkout.; Guest explanation: Provide an itemized explanation and dispute path. Do not disclose another guest's information.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Additional charges",
+      "chunk_id": "AS-03-p03-014",
+      "kind": "table_row",
+      "token_count": 65,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Charges must be disclosed in the rate, confirmation, property profile, posted notice, or guest agreement before they are applied, except for documented damage or loss assessed under the guest's agreement and applicable law. Staff must provide an itemized folio or receipt on request."
+    }
+  },
+  {
+    "id": "AS-03-p03-015",
+    "page_content": "3. Additional charges\nThe $250 smoking or vaping amount is an internal baseline only. A property may publish a different amount if the guest agreement and applicable law support it. Do not invent a fee that is not in an approved source.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Additional charges",
+      "chunk_id": "AS-03-p03-015",
+      "kind": "prose",
+      "token_count": 51,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-03-p03-016",
+    "page_content": "4. Incidentals authorization and release\nAt arrival, the property may authorize an amount for anticipated incidentals. The authorization can reduce available credit without being a posted charge. When the folio is settled, the property sends a release for the unused amount. The card issuer controls how quickly the pending hold disappears; AuroraStay cannot guarantee a same-day release.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "4. Incidentals authorization and release",
+      "chunk_id": "AS-03-p03-016",
+      "kind": "prose",
+      "token_count": 76,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-03-p03-017",
+    "page_content": "4. Incidentals authorization and release\nIf a guest sees a pending hold after checkout, staff should confirm the final folio, explain that the unused portion was released or is scheduled for release, and advise the guest to contact the card issuer if the pending status persists beyond the issuer's normal timeframe. A pending authorization is not evidence of a second final charge.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "4. Incidentals authorization and release",
+      "chunk_id": "AS-03-p03-017",
+      "kind": "prose",
+      "token_count": 79,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-03-p04-018",
+    "page_content": "5. Property-specific charge examples\nUse this table only as a property lookup example. Verify the live profile and the guest's rate confirmation before quoting a charge.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific charge examples",
+      "chunk_id": "AS-03-p04-018",
+      "kind": "prose",
+      "token_count": 36,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-03-p04-019",
+    "page_content": "5. Property-specific charge examples\nProperty: ASH-ATL Midtown; Parking: $28 self parking per night; Pet fee: $75 per stay; Breakfast: $19 adult, $10 child",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific charge examples",
+      "chunk_id": "AS-03-p04-019",
+      "kind": "table_row",
+      "token_count": 43,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Use this table only as a property lookup example. Verify the live profile and the guest's rate confirmation before quoting a charge."
+    }
+  },
+  {
+    "id": "AS-03-p04-020",
+    "page_content": "5. Property-specific charge examples\nProperty: ASH-BOS Harbor; Parking: $65 valet per night; Pet fee: No pets except service animals; Breakfast: Included",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific charge examples",
+      "chunk_id": "AS-03-p04-020",
+      "kind": "table_row",
+      "token_count": 37,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Use this table only as a property lookup example. Verify the live profile and the guest's rate confirmation before quoting a charge."
+    }
+  },
+  {
+    "id": "AS-03-p04-021",
+    "page_content": "5. Property-specific charge examples\nProperty: ASH-CHI Loop; Parking: $42 self parking per night; Pet fee: $50 per night, $150 stay cap; Breakfast: $22 per person",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific charge examples",
+      "chunk_id": "AS-03-p04-021",
+      "kind": "table_row",
+      "token_count": 44,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Use this table only as a property lookup example. Verify the live profile and the guest's rate confirmation before quoting a charge."
+    }
+  },
+  {
+    "id": "AS-03-p04-022",
+    "page_content": "5. Property-specific charge examples\nProperty: ASH-DEN Union; Parking: $35 garage per night; Pet fee: $75 per stay; Breakfast: $18 per person",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific charge examples",
+      "chunk_id": "AS-03-p04-022",
+      "kind": "table_row",
+      "token_count": 38,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Use this table only as a property lookup example. Verify the live profile and the guest's rate confirmation before quoting a charge."
+    }
+  },
+  {
+    "id": "AS-03-p04-023",
+    "page_content": "5. Property-specific charge examples\nProperty: ASH-MIA Brickell; Parking: $55 valet per night; Pet fee: $100 per stay; Breakfast: $24 per person",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific charge examples",
+      "chunk_id": "AS-03-p04-023",
+      "kind": "table_row",
+      "token_count": 39,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Use this table only as a property lookup example. Verify the live profile and the guest's rate confirmation before quoting a charge."
+    }
+  },
+  {
+    "id": "AS-03-p04-024",
+    "page_content": "5. Property-specific charge examples\nProperty: ASH-SEA Pike; Parking: $38 partner garage per night; Pet fee: $75 per stay; Breakfast: Included",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Property-specific charge examples",
+      "chunk_id": "AS-03-p04-024",
+      "kind": "table_row",
+      "token_count": 36,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "Use this table only as a property lookup example. Verify the live profile and the guest's rate confirmation before quoting a charge."
+    }
+  },
+  {
+    "id": "AS-03-p04-025",
+    "page_content": "6. Refund workflow and dispute handling\nStep: 1; Action: Locate booking channel, rate plan, folio, and payment records.; Evidence to retain: Confirmation, folio, payment status, cancellation or checkout timestamp.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "6. Refund workflow and dispute handling",
+      "chunk_id": "AS-03-p04-025",
+      "kind": "table_row",
+      "token_count": 52,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-03-p04-026",
+    "page_content": "6. Refund workflow and dispute handling\nStep: 2; Action: Identify the policy basis for a refund, retained amount, or charge.; Evidence to retain: Rate terms, property profile, signed agreement, or manager decision.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "6. Refund workflow and dispute handling",
+      "chunk_id": "AS-03-p04-026",
+      "kind": "table_row",
+      "token_count": 50,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-03-p04-027",
+    "page_content": "6. Refund workflow and dispute handling\nStep: 3; Action: Process the approved transaction in the payment system or route to the channel that collected funds.; Evidence to retain: Transaction reference and amount. Never store full card data.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "6. Refund workflow and dispute handling",
+      "chunk_id": "AS-03-p04-027",
+      "kind": "table_row",
+      "token_count": 50,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-03-p04-028",
+    "page_content": "6. Refund workflow and dispute handling\nStep: 4; Action: Tell the guest what was done and when the funds should appear.; Evidence to retain: Guest communication, promised follow-up date, and escalation owner.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "6. Refund workflow and dispute handling",
+      "chunk_id": "AS-03-p04-028",
+      "kind": "table_row",
+      "token_count": 50,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-03-p04-029",
+    "page_content": "6. Refund workflow and dispute handling\nStep: 5; Action: Escalate an unresolved dispute to Finance, the manager on duty, or the booking channel.; Evidence to retain: Issue summary and prior contacts, without sensitive data.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "6. Refund workflow and dispute handling",
+      "chunk_id": "AS-03-p04-029",
+      "kind": "table_row",
+      "token_count": 53,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-03-p04-030",
+    "page_content": "6. Refund workflow and dispute handling\nA cardholder who reports an unauthorized charge should be directed to the official contact channel and the card issuer. Staff should not ask the guest to send card numbers, CVV codes, passwords, or identity documents through ordinary email or chat.",
+    "metadata": {
+      "source": "aurorastay_refunds_and_additional_charges_guide.pdf",
+      "policy_code": "AS-03",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "6. Refund workflow and dispute handling",
+      "chunk_id": "AS-03-p04-030",
+      "kind": "prose",
+      "token_count": 60,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p02-001",
+    "page_content": "1. Purpose and guest standard\nAuroraStay wants a safe, clean, and welcoming stay for guests, visitors, and staff. These guidelines apply in guest rooms, public areas, parking areas, meeting spaces, and property-operated transportation. They supplement the reservation terms, posted notices, emergency instructions, and applicable law.\n\nStaff should address conduct concerns early, use neutral language, and apply rules consistently. A staff member should not confront a guest alone when there is a safety risk. Contact the manager on duty or emergency services according to the severity of the situation.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "1. Purpose and guest standard",
+      "chunk_id": "AS-04-p02-001",
+      "kind": "prose",
+      "token_count": 114,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p02-002",
+    "page_content": "Immediate safety rule\nCall 911 for an immediate threat to life, serious injury, fire, active violence, or suspected crime in progress. Notify the manager on duty when safe. Do not delay emergency care to complete a complaint record.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "Immediate safety rule",
+      "chunk_id": "AS-04-p02-002",
+      "kind": "prose",
+      "token_count": 48,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p02-003",
+    "page_content": "2. Core conduct rules\nTopic: Quiet hours; Guideline: Quiet hours are 10:00 PM to 7:00 AM local property time. Guests must keep noise at a level that does not unreasonably disturb others at all times.; Response if not followed: Contact the room when safe, document the complaint, and escalate repeat or serious disturbances.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Core conduct rules",
+      "chunk_id": "AS-04-p02-003",
+      "kind": "table_row",
+      "token_count": 76,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p02-004",
+    "page_content": "2. Core conduct rules\nTopic: Smoking and vaping; Guideline: Smoking and vaping are prohibited in guest rooms and indoor public areas unless a property specifically designates a lawful smoking area.; Response if not followed: Ask the guest to stop. Document evidence and apply an approved remediation charge only when supported.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Core conduct rules",
+      "chunk_id": "AS-04-p02-004",
+      "kind": "table_row",
+      "token_count": 67,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p02-005",
+    "page_content": "2. Core conduct rules\nTopic: Threats and violence; Guideline: Threats, assault, weapons used unlawfully, and intimidation are not permitted.; Response if not followed: Move to safety, call 911 when appropriate, notify the manager, and preserve relevant evidence.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Core conduct rules",
+      "chunk_id": "AS-04-p02-005",
+      "kind": "table_row",
+      "token_count": 56,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p02-006",
+    "page_content": "2. Core conduct rules\nTopic: Illegal activity; Guideline: Illegal activity, trafficking, drug distribution, and exploitation are not permitted on property.; Response if not followed: Do not investigate personally. Follow the safety and law enforcement escalation process.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Core conduct rules",
+      "chunk_id": "AS-04-p02-006",
+      "kind": "table_row",
+      "token_count": 53,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p02-007",
+    "page_content": "2. Core conduct rules\nTopic: Visitors and parties; Guideline: Visitors must follow posted occupancy, registration, age, and event rules. Parties or events that create a disturbance or exceed capacity are not permitted.; Response if not followed: Ask the host to correct the issue and involve the manager if the problem continues.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "section": "2. Core conduct rules",
+      "chunk_id": "AS-04-p02-007",
+      "kind": "table_row",
+      "token_count": 69,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p03-008",
+    "page_content": "3. Accessibility and service animals\nAuroraStay follows the Americans with Disabilities Act Title III requirements for places of lodging and provides reasonable modifications and accessible features as required by applicable law. Staff should focus on the requested feature or task, not on the guest's diagnosis or private medical information.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Accessibility and service animals",
+      "chunk_id": "AS-04-p03-008",
+      "kind": "prose",
+      "token_count": 59,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p03-009",
+    "page_content": "3. Accessibility and service animals\nQuestion or issue: A guest requests an accessible feature; Required handling: Ask what feature is needed, check the room and property profile, record the request, and confirm what can be provided. Escalate if the request cannot be met.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Accessibility and service animals",
+      "chunk_id": "AS-04-p03-009",
+      "kind": "table_row",
+      "token_count": 56,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "AuroraStay follows the Americans with Disabilities Act Title III requirements for places of lodging and provides reasonable modifications and accessible features as required by applicable law. Staff should focus on the requested feature or task, not on the guest's diagnosis or private medical information."
+    }
+  },
+  {
+    "id": "AS-04-p03-010",
+    "page_content": "3. Accessibility and service animals\nQuestion or issue: A service animal is not obvious; Required handling: Ask only whether the animal is required because of a disability and what work or task it has been trained to perform.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Accessibility and service animals",
+      "chunk_id": "AS-04-p03-010",
+      "kind": "table_row",
+      "token_count": 45,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "AuroraStay follows the Americans with Disabilities Act Title III requirements for places of lodging and provides reasonable modifications and accessible features as required by applicable law. Staff should focus on the requested feature or task, not on the guest's diagnosis or private medical information."
+    }
+  },
+  {
+    "id": "AS-04-p03-011",
+    "page_content": "3. Accessibility and service animals\nQuestion or issue: A service animal is out of control or not housebroken; Required handling: Ask the handler to correct the issue. If it is not corrected, involve the manager. Do not charge a pet fee or make a breed-based decision.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Accessibility and service animals",
+      "chunk_id": "AS-04-p03-011",
+      "kind": "table_row",
+      "token_count": 59,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "AuroraStay follows the Americans with Disabilities Act Title III requirements for places of lodging and provides reasonable modifications and accessible features as required by applicable law. Staff should focus on the requested feature or task, not on the guest's diagnosis or private medical information."
+    }
+  },
+  {
+    "id": "AS-04-p03-012",
+    "page_content": "3. Accessibility and service animals\nQuestion or issue: A guest asks about an emotional support animal; Required handling: An animal that does not meet the ADA service animal definition follows the property's pet policy unless another law or approved accommodation applies.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Accessibility and service animals",
+      "chunk_id": "AS-04-p03-012",
+      "kind": "table_row",
+      "token_count": 50,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "AuroraStay follows the Americans with Disabilities Act Title III requirements for places of lodging and provides reasonable modifications and accessible features as required by applicable law. Staff should focus on the requested feature or task, not on the guest's diagnosis or private medical information."
+    }
+  },
+  {
+    "id": "AS-04-p03-013",
+    "page_content": "3. Accessibility and service animals\nQuestion or issue: A guest reports discrimination; Required handling: Listen, do not argue, document the facts, involve the manager, and offer the formal complaint channel. Escalate urgent safety or access concerns immediately.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Accessibility and service animals",
+      "chunk_id": "AS-04-p03-013",
+      "kind": "table_row",
+      "token_count": 51,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "AuroraStay follows the Americans with Disabilities Act Title III requirements for places of lodging and provides reasonable modifications and accessible features as required by applicable law. Staff should focus on the requested feature or task, not on the guest's diagnosis or private medical information."
+    }
+  },
+  {
+    "id": "AS-04-p03-014",
+    "page_content": "3. Accessibility and service animals\nStaff must not demand a service animal certificate, vest, or medical record as a condition of entry. Service animals are not subject to a pet fee. A direct threat assessment must be based on objective evidence and an individualized assessment, not on stereotypes.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "3. Accessibility and service animals",
+      "chunk_id": "AS-04-p03-014",
+      "kind": "prose",
+      "token_count": 58,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p03-015",
+    "page_content": "4. Safety, privacy, and lost property\nGuests should use the room safe when available and keep keys, mobile credentials, and personal information secure. Staff verify identity before issuing a replacement key, providing room information, or releasing stored luggage. Staff must not announce a guest's room number aloud in public.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "4. Safety, privacy, and lost property",
+      "chunk_id": "AS-04-p03-015",
+      "kind": "prose",
+      "token_count": 63,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p03-016",
+    "page_content": "4. Safety, privacy, and lost property\nLost property is logged, secured, and returned through the approved process. Staff should not open, browse, or share personal content from a found device except as needed to identify the owner through an approved procedure. Suspected weapons, drugs, exploitation, or immediate danger are handled through safety escalation, not informal investigation.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "section": "4. Safety, privacy, and lost property",
+      "chunk_id": "AS-04-p03-016",
+      "kind": "prose",
+      "token_count": 75,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p04-017",
+    "page_content": "5. Complaint resolution\nStage: Listen and stabilize; Staff action: Move to a safe and private setting where possible. Confirm the immediate need and acknowledge the concern without assigning blame.; Target: Immediately",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Complaint resolution",
+      "chunk_id": "AS-04-p04-017",
+      "kind": "table_row",
+      "token_count": 42,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p04-018",
+    "page_content": "5. Complaint resolution\nStage: Clarify facts; Staff action: Ask what happened, when, where, who was involved, and what outcome the guest needs. Avoid leading questions.; Target: During first contact",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Complaint resolution",
+      "chunk_id": "AS-04-p04-018",
+      "kind": "table_row",
+      "token_count": 43,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p04-019",
+    "page_content": "5. Complaint resolution\nStage: Check policy and records; Staff action: Review reservation, property profile, posted rule, folio, or incident record. Protect sensitive data.; Target: Same shift",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Complaint resolution",
+      "chunk_id": "AS-04-p04-019",
+      "kind": "table_row",
+      "token_count": 41,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p04-020",
+    "page_content": "5. Complaint resolution\nStage: Offer a remedy; Staff action: Give the remedy the staff member can approve, or explain the manager review and follow-up time.; Target: Same shift when possible",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Complaint resolution",
+      "chunk_id": "AS-04-p04-020",
+      "kind": "table_row",
+      "token_count": 42,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p04-021",
+    "page_content": "5. Complaint resolution\nStage: Escalate and close; Staff action: Escalate safety, access, discrimination, privacy, media, legal, or unresolved compensation issues. Confirm the next step to the guest.; Target: Within one business day unless urgent",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "5. Complaint resolution",
+      "chunk_id": "AS-04-p04-021",
+      "kind": "table_row",
+      "token_count": 56,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p04-022",
+    "page_content": "Neutral documentation\nRecord observable facts, the guest's stated concern, the policy checked, the action taken, the approver, and the follow-up owner. Avoid labels such as difficult, intoxicated, or suspicious unless the specific observable behavior is recorded and the label is necessary for safety.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "Neutral documentation",
+      "chunk_id": "AS-04-p04-022",
+      "kind": "prose",
+      "token_count": 65,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p04-023",
+    "page_content": "6. Escalation matrix\nConcern: Immediate danger or injury; Primary owner: Emergency services and manager on duty; Escalate when: Threat, fire, serious injury, active violence, or crime in progress.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "6. Escalation matrix",
+      "chunk_id": "AS-04-p04-023",
+      "kind": "table_row",
+      "token_count": 45,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p04-024",
+    "page_content": "6. Escalation matrix\nConcern: Accessibility or service animal; Primary owner: Manager on duty and Guest Experience; Escalate when: Feature unavailable, access blocked, animal dispute, or discrimination allegation.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "6. Escalation matrix",
+      "chunk_id": "AS-04-p04-024",
+      "kind": "table_row",
+      "token_count": 45,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p04-025",
+    "page_content": "6. Escalation matrix\nConcern: Privacy or data incident; Primary owner: Manager and Privacy or Security lead; Escalate when: Wrong disclosure, lost device with guest data, suspected account access, or payment data exposure.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "6. Escalation matrix",
+      "chunk_id": "AS-04-p04-025",
+      "kind": "table_row",
+      "token_count": 48,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p04-026",
+    "page_content": "6. Escalation matrix\nConcern: Charge dispute; Primary owner: Manager and Finance; Escalate when: Unauthorized charge claim, high-value damage dispute, duplicate charge, or channel conflict.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "6. Escalation matrix",
+      "chunk_id": "AS-04-p04-026",
+      "kind": "table_row",
+      "token_count": 42,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p04-027",
+    "page_content": "6. Escalation matrix\nConcern: Media or legal request; Primary owner: Corporate Communications or Legal; Escalate when: Subpoena, regulator contact, reporter request, threatened claim, or preservation request.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "section": "6. Escalation matrix",
+      "chunk_id": "AS-04-p04-027",
+      "kind": "table_row",
+      "token_count": 45,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p05-028",
+    "page_content": "7. Property-specific reminders\nThe property matrix below connects conduct and guest service questions to common property differences. It is not a substitute for current notices or the live property profile.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 5,
+      "pages": [
+        5
+      ],
+      "section": "7. Property-specific reminders",
+      "chunk_id": "AS-04-p05-028",
+      "kind": "prose",
+      "token_count": 38,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p05-029",
+    "page_content": "7. Property-specific reminders\nProperty: ASH-ATL Midtown, Atlanta GA; Check-in / out: 3:00 PM / 11:00 AM; Parking: Self parking, $28 per night; Pets: $75 per stay; 2 pets max; Breakfast: $19 adult, $10 child",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 5,
+      "pages": [
+        5
+      ],
+      "section": "7. Property-specific reminders",
+      "chunk_id": "AS-04-p05-029",
+      "kind": "table_row",
+      "token_count": 66,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "The property matrix below connects conduct and guest service questions to common property differences. It is not a substitute for current notices or the live property profile."
+    }
+  },
+  {
+    "id": "AS-04-p05-030",
+    "page_content": "7. Property-specific reminders\nProperty: ASH-BOS Harbor, Boston MA; Check-in / out: 4:00 PM / 11:00 AM; Parking: Valet only, $65 per night; Pets: No pets except service animals; Breakfast: Included with room",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 5,
+      "pages": [
+        5
+      ],
+      "section": "7. Property-specific reminders",
+      "chunk_id": "AS-04-p05-030",
+      "kind": "table_row",
+      "token_count": 59,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "The property matrix below connects conduct and guest service questions to common property differences. It is not a substitute for current notices or the live property profile."
+    }
+  },
+  {
+    "id": "AS-04-p05-031",
+    "page_content": "7. Property-specific reminders\nProperty: ASH-CHI Loop, Chicago IL; Check-in / out: 3:00 PM / 12:00 PM; Parking: Self parking, $42 per night; Pets: $50 per night, $150 stay cap; Breakfast: $22 per person",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 5,
+      "pages": [
+        5
+      ],
+      "section": "7. Property-specific reminders",
+      "chunk_id": "AS-04-p05-031",
+      "kind": "table_row",
+      "token_count": 63,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "The property matrix below connects conduct and guest service questions to common property differences. It is not a substitute for current notices or the live property profile."
+    }
+  },
+  {
+    "id": "AS-04-p05-032",
+    "page_content": "7. Property-specific reminders\nProperty: ASH-DEN Union, Denver CO; Check-in / out: 4:00 PM / 11:00 AM; Parking: Garage, $35 per night; Pets: $75 per stay; 2 pets max; Breakfast: $18 per person",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 5,
+      "pages": [
+        5
+      ],
+      "section": "7. Property-specific reminders",
+      "chunk_id": "AS-04-p05-032",
+      "kind": "table_row",
+      "token_count": 61,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "The property matrix below connects conduct and guest service questions to common property differences. It is not a substitute for current notices or the live property profile."
+    }
+  },
+  {
+    "id": "AS-04-p05-033",
+    "page_content": "7. Property-specific reminders\nProperty: ASH-MIA Brickell, Miami FL; Check-in / out: 4:00 PM / 11:00 AM; Parking: Valet, $55 per night; Pets: $100 per stay; 2 pets max; Breakfast: $24 per person",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 5,
+      "pages": [
+        5
+      ],
+      "section": "7. Property-specific reminders",
+      "chunk_id": "AS-04-p05-033",
+      "kind": "table_row",
+      "token_count": 62,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "The property matrix below connects conduct and guest service questions to common property differences. It is not a substitute for current notices or the live property profile."
+    }
+  },
+  {
+    "id": "AS-04-p05-034",
+    "page_content": "7. Property-specific reminders\nProperty: ASH-SEA Pike, Seattle WA; Check-in / out: 3:00 PM / 12:00 PM; Parking: No on-site parking; partner garage, $38 per night; Pets: $75 per stay; 2 pets max; Breakfast: Included with room",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 5,
+      "pages": [
+        5
+      ],
+      "section": "7. Property-specific reminders",
+      "chunk_id": "AS-04-p05-034",
+      "kind": "table_row",
+      "token_count": 67,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01",
+      "context_note": "The property matrix below connects conduct and guest service questions to common property differences. It is not a substitute for current notices or the live property profile."
+    }
+  },
+  {
+    "id": "AS-04-p05-035",
+    "page_content": "7. Property-specific reminders\nQuiet hours, smoking rules, service animal procedures, and complaint handling are group-wide baselines. Parking, breakfast, pet fees, room access, and amenity availability are property-specific unless the guest's confirmation states otherwise.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 5,
+      "pages": [
+        5
+      ],
+      "section": "7. Property-specific reminders",
+      "chunk_id": "AS-04-p05-035",
+      "kind": "prose",
+      "token_count": 56,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p05-036",
+    "page_content": "8. Review notes\nThis policy should be reviewed at least annually and after a material incident, regulatory change, property acquisition, or change to payment, access, surveillance, or guest messaging systems. Regulatory references to confirm include ADA Title III, applicable state and local lodging rules, privacy and breach notification requirements, OSHA workplace safety requirements, and PCI DSS controls for payment data.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 5,
+      "pages": [
+        5
+      ],
+      "section": "8. Review notes",
+      "chunk_id": "AS-04-p05-036",
+      "kind": "prose",
+      "token_count": 78,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  },
+  {
+    "id": "AS-04-p05-037",
+    "page_content": "8. Review notes\nNothing in this guide authorizes staff to search a guest, confiscate property, promise confidentiality beyond company policy, or take action that conflicts with local law or an emergency responder's direction.",
+    "metadata": {
+      "source": "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf",
+      "policy_code": "AS-04",
+      "page": 5,
+      "pages": [
+        5
+      ],
+      "section": "8. Review notes",
+      "chunk_id": "AS-04-p05-037",
+      "kind": "prose",
+      "token_count": 48,
+      "effective_date": "2026-01-01",
+      "review_date": "2027-01-01"
+    }
+  }
+]

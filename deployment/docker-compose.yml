@@ -1,0 +1,31 @@
+services:
+  backend:
+    build:
+      context: ..
+      dockerfile: deployment/backend/Dockerfile
+    environment:
+      OPENAI_API_KEY: ${OPENAI_API_KEY:?Set OPENAI_API_KEY in your local environment}
+      OPENAI_API_BASE: ${OPENAI_API_BASE:?Set OPENAI_API_BASE in your local environment}
+      INDEX_DIR: /app/artifacts/faiss_index
+      RAG_REQUEST_TIMEOUT_SEC: "90"
+    ports:
+      - "127.0.0.1:7860:7860"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:7860/health', timeout=5)"]
+      interval: 15s
+      timeout: 6s
+      retries: 12
+      start_period: 60s
+    restart: unless-stopped
+  frontend:
+    build:
+      context: ..
+      dockerfile: deployment/frontend/Dockerfile
+    environment:
+      BACKEND_URL: http://backend:7860
+    ports:
+      - "127.0.0.1:8501:8501"
+    depends_on:
+      backend:
+        condition: service_healthy
+    restart: unless-stopped

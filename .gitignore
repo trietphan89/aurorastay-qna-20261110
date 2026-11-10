@@ -1,0 +1,14 @@
+.venv/
+config.json
+.env
+__pycache__/
+.DS_Store
+build/
+output/
+data/
+artifacts/*
+!artifacts/faiss_index/
+.deepeval/
+.pytest_cache/
+*.log
+

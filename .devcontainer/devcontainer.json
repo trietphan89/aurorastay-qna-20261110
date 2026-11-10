@@ -1,0 +1,9 @@
+{
+  "name": "AuroraStay policy assistant",
+  "forwardPorts": [7860, 8501],
+  "portsAttributes": {
+    "7860": {"label": "AuroraStay API", "onAutoForward": "notify"},
+    "8501": {"label": "AuroraStay staff UI", "onAutoForward": "notify"}
+  },
+  "customizations": {"vscode": {"extensions": ["ms-python.python", "ms-toolsai.jupyter"]}}
+}

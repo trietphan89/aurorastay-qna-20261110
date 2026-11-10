@@ -1,0 +1,71 @@
+{
+  "schema_version": "aurorastay-retrieval-v1",
+  "embedding_model": "HarishMaths/Hotel-Policy-Embedding",
+  "embedding_revision": "3c9f67da8057fb1e9f742c9e6680d5a4b33b4dcd",
+  "tokenizer_limit": 128,
+  "tokenizer_vocab_sha256": "f21ba7d9e039a58203c4dcbab3b89aacd44946d8dba15c12b61666cf93b786c1",
+  "normalization": "unit L2; inner product equals cosine similarity",
+  "faiss_metric": "inner_product",
+  "dimension": 384,
+  "chunk_count": 133,
+  "retrieval_method": "dense-bm25-rrf-property-dedup-v1",
+  "hybrid_config": {
+    "dense_candidates": 32,
+    "lexical_candidates": 32,
+    "rrf_constant": 60,
+    "dense_weight": 1.0,
+    "lexical_weight": 1.5,
+    "bm25_k1": 1.5,
+    "bm25_b": 0.75,
+    "lexical_relative_floor": 0.3,
+    "lexical_anchor_min_score": 4.0,
+    "exact_property_boost": 0.035,
+    "default_k": 4
+  },
+  "lexical_query_synonyms": {
+    "dog": [
+      "pet",
+      "animal"
+    ],
+    "noisy": [
+      "noise",
+      "quiet"
+    ],
+    "loud": [
+      "noise",
+      "quiet"
+    ],
+    "free": [
+      "included"
+    ],
+    "smoke": [
+      "smoking"
+    ],
+    "vape": [
+      "vaping"
+    ],
+    "fee": [
+      "charge"
+    ],
+    "budget": [
+      "charge",
+      "fee"
+    ]
+  },
+  "files": {
+    "index.faiss": "a5a85d32bd0eba52511edfffce8ec8917b413c9c2d20b05f9293a94f83052803",
+    "docstore.json": "4a78b75cf4f3ddc793e9e79fc83dd0fc8b634c86b72bbde52bba41ee32ec75c5"
+  },
+  "chunk_tokens": 110,
+  "overlap_tokens": 16,
+  "source_files": {
+    "aurorastay_booking_terms_and_cancellation_policy.pdf": "a4102254bb36c5c542e0cd661f1fd1c83744d02cbf9f1724ee633f068e621e8f",
+    "aurorastay_room_and_property_information.pdf": "86512b2ad3c68ab6ede9da1a1a8524a3b677eb5f3ffc719c1304a346243a7310",
+    "aurorastay_refunds_and_additional_charges_guide.pdf": "2429e09c90d8e7a8ba2c9d4427d204238f8dc84faaad8284fdd880497087dfcf",
+    "aurorastay_guest_conduct_accessibility_and_resolution_guidelines.pdf": "992165cf99aece93d3b9ae0cfea0aa2346394f3069a21bcf1a5137fd64e445ad"
+  },
+  "source_count": 4,
+  "page_count": 19,
+  "parser": "Docling, OCR off, table structure on",
+  "build_elapsed_seconds": 5.333
+}
